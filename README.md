@@ -12,5 +12,5 @@ Instructions:
 
 Notes: 
 - This was only tested in a Windows environment. 
-- Again, I am not affliated with the PDB, if you have questions about querying or results you should contact them
+- Again, I am not affliated with the PDB, if you have questions about querying or results you should contact them.
 - Here's a link to their "Web Services Overview" page with more info, a link to their documentation, and a contact link at the bottom: https://www.rcsb.org/pages/webservices
