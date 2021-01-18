@@ -1,0 +1,1 @@
+{"query": {"type": "terminal", "service": "text", "parameters": {"attribute": "rcsb_chem_comp_container_identifiers.comp_id", "operator": "exact_match", "value": "FAD"}}, "request_options": {"return_all_hits": true}, "return_type": "entry"}
